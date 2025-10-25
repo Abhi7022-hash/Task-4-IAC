@@ -1,4 +1,4 @@
-### Provision a Local Docker Container Using Terraform[IAC] 
+## Provision a Local Docker Container Using Terraform[IAC] 
 ## Tools and Technologies
 - Docker
 - Terraform
