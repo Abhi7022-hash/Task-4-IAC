@@ -6,13 +6,17 @@
 - Terminal
 
 ## Steps
-- Create a Project Folder as Iac-task
-- Then write the "main.tf"
+1. Create a Project Folder
+   - example: Iac-Task
+2. Write the Terraform Configuration
+   - Create a main.tf and define waht resoucres you need 
 ## Commands to use After Writing main.tf File
 - terraform init [ for initialization]
-- terraform plan [its like a dry run before applying the code]
+- terraform plan [its like a dry run before applying the code,its like it shows what resouces are going to create]
 - terraform apply [it will create the resources what you defined in the main.tf file]
-- terraform destroy [it will destroy the resources you have created]
+- terraform destroy [Delet all resources created by Terraform]
 
 ## Author
 Abhishek Dindawar
+
+
