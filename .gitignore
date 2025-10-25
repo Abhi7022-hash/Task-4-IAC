@@ -4,10 +4,5 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
 
-*.log
-*.tmp
-*.bak
-.vscode/
-.idea/
 
 
